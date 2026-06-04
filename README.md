@@ -42,17 +42,20 @@ To satisfy the deliverables, the repository contains the following structure:
 └── .gitignore               # Excludes large PDF binary blocks and keys
 
 
-3. **Install Dependencies**:
+ **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. *Set Up API Credentials*
+ *Set Up API Credentials*
    Create a .env file in the root directory:
    env
-   # Set either direct Gemini Key or OpenRouter Key (recommended fallback)
-   GEMINI_API_KEY=your_gemini_key_here
-   OPENROUTER_API_KEY=your_openrouter_key_here
+   
+Set either direct Gemini Key or OpenRouter Key 
+
+GEMINI_API_KEY=your_gemini_key_here
+
+OPENROUTER_API_KEY=your_openrouter_key_here
    ```
 
 
