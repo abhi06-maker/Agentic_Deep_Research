@@ -1,0 +1,68 @@
+[
+  {
+    "config": "full_agent",
+    "n": 30,
+    "accuracy": 4.367,
+    "faithfulness": 4.4,
+    "cite_precision": 1.0,
+    "cite_recall": 1.0,
+    "cite_f1": 1.0,
+    "latency_sec": 4.333,
+    "tool_calls": 6.467
+  },
+  {
+    "config": "baseline",
+    "n": 30,
+    "accuracy": 2.033,
+    "faithfulness": 1.967,
+    "cite_precision": 1.0,
+    "cite_recall": 1.0,
+    "cite_f1": 1.0,
+    "latency_sec": 8.936,
+    "tool_calls": 2.0
+  },
+  {
+    "config": "no_planner",
+    "n": 30,
+    "accuracy": 3.833,
+    "faithfulness": 3.833,
+    "cite_precision": 1.0,
+    "cite_recall": 1.0,
+    "cite_f1": 1.0,
+    "latency_sec": 1.886,
+    "tool_calls": 3.8
+  },
+  {
+    "config": "no_hybrid",
+    "n": 30,
+    "accuracy": 4.1,
+    "faithfulness": 4.467,
+    "cite_precision": 1.0,
+    "cite_recall": 1.0,
+    "cite_f1": 1.0,
+    "latency_sec": 4.959,
+    "tool_calls": 6.533
+  },
+  {
+    "config": "no_reflector",
+    "n": 30,
+    "accuracy": 3.667,
+    "faithfulness": 4.0,
+    "cite_precision": 1.0,
+    "cite_recall": 1.0,
+    "cite_f1": 1.0,
+    "latency_sec": 7.945,
+    "tool_calls": 4.6
+  },
+  {
+    "config": "no_citation_verifier",
+    "n": 30,
+    "accuracy": 4.267,
+    "faithfulness": 4.3,
+    "cite_precision": 1.0,
+    "cite_recall": 1.0,
+    "cite_f1": 1.0,
+    "latency_sec": 4.71,
+    "tool_calls": 6.467
+  }
+]

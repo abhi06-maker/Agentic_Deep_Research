@@ -1,0 +1,30 @@
+{"id": "q001", "type": "factoid", "question": "What is the ReAct framework and how does it interleave reasoning and acting?"}
+{"id": "q002", "type": "factoid", "question": "What is Self-RAG and how does it use retrieval tokens?"}
+{"id": "q003", "type": "factoid", "question": "What benchmark does AgentBench use to evaluate LLM agents?"}
+{"id": "q004", "type": "factoid", "question": "What is Reflexion and how does it use verbal reinforcement?"}
+{"id": "q005", "type": "factoid", "question": "What does the ToolFormer paper propose for tool use in LLMs?"}
+{"id": "q006", "type": "factoid", "question": "What is the key idea behind HippoRAG for long-term agent memory?"}
+{"id": "q007", "type": "factoid", "question": "What is WebArena and what tasks does it include?"}
+{"id": "q008", "type": "factoid", "question": "How does AutoGen enable multi-agent conversation?"}
+{"id": "q009", "type": "factoid", "question": "What is the main contribution of the Voyager paper on Minecraft agents?"}
+{"id": "q010", "type": "factoid", "question": "What evaluation metrics does RAGAS use for RAG systems?"}
+{"id": "q011", "type": "comparative", "question": "How do ReAct and Reflexion differ in their approach to agent reasoning?"}
+{"id": "q012", "type": "comparative", "question": "Compare dense retrieval versus sparse BM25 retrieval for RAG agents."}
+{"id": "q013", "type": "comparative", "question": "How do AutoGen and CrewAI differ in their multi-agent architectures?"}
+{"id": "q014", "type": "comparative", "question": "Compare chain-of-thought prompting versus tool-augmented agents for complex reasoning."}
+{"id": "q015", "type": "comparative", "question": "How do computer-use agents like WebArena and OSWorld differ in their evaluation setup?"}
+{"id": "q016", "type": "comparative", "question": "Compare agentic RAG versus standard RAG in terms of retrieval strategy."}
+{"id": "q017", "type": "comparative", "question": "How does Self-RAG differ from standard RAG in deciding when to retrieve?"}
+{"id": "q018", "type": "comparative", "question": "Compare short-term and long-term memory mechanisms in LLM agents."}
+{"id": "q019", "type": "comparative", "question": "How do tool-use benchmarks like ToolBench and APIBench differ in scope?"}
+{"id": "q020", "type": "comparative", "question": "Compare plan-then-execute versus interleaved plan-and-execute agent architectures."}
+{"id": "q021", "type": "survey", "question": "What are the main approaches to agent memory in LLM-based systems?"}
+{"id": "q022", "type": "survey", "question": "What are the key benchmarks for evaluating LLM agents in 2024-2025?"}
+{"id": "q023", "type": "survey", "question": "What retrieval augmentation techniques are used in agentic systems?"}
+{"id": "q024", "type": "survey", "question": "How have computer-use and GUI agents evolved in recent research?"}
+{"id": "q025", "type": "survey", "question": "What are the main failure modes of LLM agents identified in recent papers?"}
+{"id": "q026", "type": "survey", "question": "What multi-agent coordination strategies appear in recent LLM research?"}
+{"id": "q027", "type": "survey", "question": "How do recent papers address hallucination in tool-augmented LLM agents?"}
+{"id": "q028", "type": "survey", "question": "What are the main planning approaches used in autonomous LLM agents?"}
+{"id": "q029", "type": "survey", "question": "What safety and alignment challenges are identified for LLM agents?"}
+{"id": "q030", "type": "survey", "question": "How is citation grounding and faithfulness evaluated in RAG-based agent systems?"}
